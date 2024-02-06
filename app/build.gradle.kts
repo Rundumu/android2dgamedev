@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.emmanuel.android2dgamedev"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.emmanuel.android2dgamedev"
